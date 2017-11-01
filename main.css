@@ -14,8 +14,9 @@ table, th, td {
 }
 tr.headers{
       font-weight: bold;
-      color: white;
+      color: purple;
 	text-align: center;
+	font-size: 30px;
       
 }
 tr a.active{
