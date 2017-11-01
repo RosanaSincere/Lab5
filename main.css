@@ -47,14 +47,12 @@ tr a:hover:not(.active) {
 	width: 100px;
 	height: 100px;
 	background: url('Neptune.jpg') bottom;
-	text-indent: -99999px;
 }
 .neptune:hover {
 	background-position: 0 0;
 }
 
 .uranus {
-	display: block;
 	width: 100px;
 	height: 100px;
 	background: url('Uranus.jpg') bottom;
