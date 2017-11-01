@@ -29,7 +29,7 @@ tr a:hover:not(.active) {
 	display: block;
 	width: 100px;
 	height: 100px;
-	background: url('saturn.jpg') bottom;
+	background: url('media/saturn.jpg') bottom;
 	color: white;
 }
 .saturn:hover {
@@ -40,7 +40,7 @@ tr a:hover:not(.active) {
 	display: block;
 	width: 100px;
 	height: 100px;
-	background: url('mars.jpg') bottom;
+	background: url('media/mars.jpg') bottom;
 	color: white;
 }
 .mars:hover {
@@ -51,7 +51,7 @@ tr a:hover:not(.active) {
 	display: block;
 	width: 100px;
 	height: 100px;
-	background: url('Neptune.jpg') bottom;
+	background: url('media/Neptune.jpg') bottom;
 	color: white;
 }
 .neptune:hover {
@@ -61,7 +61,7 @@ tr a:hover:not(.active) {
 .uranus {
 	width: 100px;
 	height: 100px;
-	background: url('Uranus.jpg') bottom;
+	background: url('media/Uranus.jpg') bottom;
 	text-indent: -99999px;
 	color:white;
 }
