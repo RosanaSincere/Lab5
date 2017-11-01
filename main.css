@@ -19,10 +19,10 @@ tr.headers{
       
 }
 tr a.active{
-      color: purple;
+      color: white;
 }
 tr a:hover:not(.active) {
-      color: purple;
+      color: white;
 }
 .saturn {
 	display: block;
@@ -58,6 +58,7 @@ tr a:hover:not(.active) {
 }
 
 .uranus {
+	display: block;
 	width: 100px;
 	height: 100px;
 	background: url('media/Uranus.jpg') bottom;
