@@ -5,6 +5,19 @@ body {
       font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
       font-size: 20em;
 }
-h3{
+
+h2 {
       text-align: center;
+}
+
+tr.headers{
+      font-weight: bold;
+      font-size: 25em;
+      font color = white;
+}
+tr a.active{
+      color: orange;
+}
+tr a:hover:not(.active) {
+      color: yellow;
 }
