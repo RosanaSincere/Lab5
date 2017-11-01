@@ -16,7 +16,7 @@ tr.headers{
       font-weight: bold;
       color: purple;
 	text-align: center;
-	font-size: 30px;
+	font-size: 20px;
       
 }
 tr a.active{
@@ -63,7 +63,6 @@ tr a:hover:not(.active) {
 	width: 100px;
 	height: 100px;
 	background: url('media/Uranus.jpg') bottom;
-	text-indent: -99999px;
 	color:white;
 }
 .uranus:hover {
