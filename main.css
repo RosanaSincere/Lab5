@@ -12,12 +12,13 @@ h2 {
 tr.headers{
       font-weight: bold;
       color: white;
+      
 }
 tr a.active{
-      color: orange;
+      color: purple;
 }
 tr a:hover:not(.active) {
-      color: yellow;
+      color: purple;
 }
 .saturn {
 	display: block;
